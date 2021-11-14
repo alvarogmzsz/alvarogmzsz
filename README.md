@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alvaro Gomez Suarez
-- 👀 I’m interested in html, css, javascript and php. Linux server administration💻.
+- 👀 I’m interested in html, css, javascript and php.
 - 💻 Linux server administration💻.
 - 🌱 I’m currently learning those things that im interested because there are new things all time!
 
