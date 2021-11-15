@@ -1,6 +1,6 @@
 - 👀 I’m interested in html, css, javascript and php.
 - 💻 Linux server administration💻.
-- 🌱 I’m currently learning those things that im interested because there are new things all time!
+- 🌱 I’m currently learning lot of things, there are new all time!
 
 <!---
 alvarogmzsz/alvarogmzsz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
